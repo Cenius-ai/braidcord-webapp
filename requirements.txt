@@ -1,0 +1,7 @@
+# BraidCord imports nothing outside the Python 3.9+ standard library, so this
+# file intentionally declares no packages: there is nothing to install.
+#
+# The test suite uses the standard library unittest module and is collected by
+# pytest when it is available:
+#   python3 -m unittest discover -s tests -t .
+#   python3 -m pytest

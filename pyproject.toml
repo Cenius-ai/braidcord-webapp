@@ -1,0 +1,5 @@
+# BraidCord is a single standard-library file run as `python3 braidcord.py`;
+# there is no package to build or install. This file only configures the test
+# runner.
+[tool.pytest.ini_options]
+testpaths = ["tests"]

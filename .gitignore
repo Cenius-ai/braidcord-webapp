@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+demo-data/
+braidcord.json
+braidcord.json.bak
+.env
